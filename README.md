@@ -1,2 +1,2 @@
 # Xtreme-12
-um pouco sobre meu bot
+um pouco dos comandos do meu bot mais não todos 
